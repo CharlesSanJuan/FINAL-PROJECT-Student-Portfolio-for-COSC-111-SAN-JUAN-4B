@@ -81,11 +81,5 @@ Key concepts demonstrated:
 | 11 | Button 2 |
 | 10 | Button 3 |
 
-
-## Files Included
-- `bicon.ino` – Arduino bidirectional control program
-- `bicon.py` – Python serial communication program
-
-
 ## Conclusion
 This laboratory activity successfully demonstrates bidirectional serial communication between Arduino and Python. By allowing both hardware inputs and software commands to control LEDs, the activity highlights essential IoT principles such as real-time interaction, feedback systems, and device interoperability.
