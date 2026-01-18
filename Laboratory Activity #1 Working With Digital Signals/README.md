@@ -34,9 +34,5 @@ Key concepts demonstrated:
 - Breadboard
 - Jumper wires
 
-## Files Included
-- `Working-with-Digital-Signals-ACT1.ino`
-- `arduino-diagram.jpg`
-
 ## Conclusion
 This activity demonstrates the fundamentals of digital signal control using Arduino and provides a strong foundation for more advanced IoT system development.
