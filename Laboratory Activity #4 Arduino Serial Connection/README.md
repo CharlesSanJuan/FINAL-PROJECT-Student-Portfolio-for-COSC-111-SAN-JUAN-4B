@@ -63,11 +63,5 @@ Key concepts demonstrated:
 | A2 | Photoresistor |
 | 8  | Alert output |
 
-
-## Files Included
-- Arduino source code (`.ino` file)
-- Circuit diagram image (`.jpg`)
-
-
 ## Conclusion
 This laboratory activity demonstrates how serial communication can be used to monitor sensor data and control hardware behavior interactively. It reinforces the importance of serial interfaces in debugging, data visualization, and real-time control for IoT applications.
