@@ -63,10 +63,6 @@ Key concepts demonstrated:
 - PySerial
 - Requests library
 
-## Files Included
-- `finallab.ino`
-- `finalLab.py`
-- `README.md`
 
 ## Conclusion
 This final laboratory exam demonstrates a complete IoT solution that integrates hardware input, serial communication, Python-based clients, and web APIs. It reflects real-world IoT system behavior where physical interactions trigger networked actions, reinforcing key concepts in embedded systems and Internet of Things development.
