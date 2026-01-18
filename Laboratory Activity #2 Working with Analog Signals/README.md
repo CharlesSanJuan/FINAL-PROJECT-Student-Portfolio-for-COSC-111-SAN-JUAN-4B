@@ -45,11 +45,5 @@ Key concepts demonstrated:
 - Breadboard
 - Jumper wires
 
-
-## Files Included
-- Arduino source code (`.ino` file)
-- Circuit diagram image (`.jpg`)
-
-
 ## Conclusion
 This laboratory activity demonstrates how timing and sequencing can be used to represent analog signal concepts using digital outputs. It reinforces the relationship between digital control and analog behavior, which is essential for understanding sensor readings and actuator control in IoT applications.
