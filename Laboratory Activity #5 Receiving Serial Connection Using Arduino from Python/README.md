@@ -84,11 +84,5 @@ The program demonstrates how software applications can directly interact with em
 | 9  | Green LED |
 | 10 | Blue LED |
 
-
-## Files Included
-- `serial_led_control.ino` – Arduino main program
-- `led_control.h` – LED control functions
-- `serial_led_control.py` – Python serial control program
-
 ## Conclusion
 This laboratory activity demonstrates successful serial communication between Arduino and Python for hardware control. It reinforces key IoT concepts such as software-to-hardware interaction, modular programming, and real-time command execution, which are essential in modern embedded and IoT systems.
