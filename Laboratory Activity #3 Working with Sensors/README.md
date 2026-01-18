@@ -64,10 +64,5 @@ Key concepts demonstrated:
 | 12 | Alert output |
 
 
-## Files Included
-- Arduino source code (`.ino` file)
-- Circuit diagram image (`.jpg`)
-
-
 ## Conclusion
 This laboratory activity demonstrates how sensors can be integrated into an Arduino system to monitor environmental conditions and trigger outputs automatically. It provides essential knowledge for building responsive and intelligent IoT applications.
